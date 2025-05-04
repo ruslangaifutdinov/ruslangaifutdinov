@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ruslangaifutdinov
-- 👀 I’m interested in JavaScript, NodeJS, MongoDB, React, VUE, Machine Vision.
-- 🌱 I’m currently learning JavaScript, NodeJS, MongoDB, React, VUE.
+- 👀 I’m interested in JavaScript, NodeJS, MongoDB, React, VUE, Machine Vision, Kubernetes, Vault
+- 🌱 I’m currently learning JavaScript, NodeJS, MongoDB, React, VUE, Kubernetes, Vault
 
 
 <!---
